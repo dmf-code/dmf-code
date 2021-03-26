@@ -1,4 +1,4 @@
-### 🌱 Hi，我是 dengmf，目前是 PHP 程序员，业余也折腾 GOLANG / VUE，热爱开源和新技术。
+### 🌱 Hi，我是 dengmf，目前是 PHP 程序员，业余也折腾 GOLANG / PYTHON / VUE，热爱开源和新技术。
 
 <!--
 **dmf-code/dmf-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
