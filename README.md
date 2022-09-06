@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 <div style="display: flex;width:100%;justify-content: space-between;"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=dmf-code&show_icons=true&hide=contribs" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmf-code&layout=compact" />
 </div>
