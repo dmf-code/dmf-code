@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex;width:100%;justify-content: space-between;"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=dmf-code&show_icons=true&hide=contribs" />
-</div>
+![dmf-code github stats](https://github-readme-stats.vercel.app/api?username=dmf-code&show_icons=true&theme=dracula&hide=stars,issues)
