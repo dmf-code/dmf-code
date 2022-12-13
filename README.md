@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![dmf-code github stats](https://github-readme-stats.vercel.app/api?username=dmf-code&show_icons=true&theme=dracula&hide=stars,issues)
+![](https://github-readme-stats.vercel.app/api?username=dmf-code&show_icons=true&hide=contribs)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmf-code&layout=compact)
