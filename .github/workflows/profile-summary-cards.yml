@@ -2,7 +2,7 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule: # “At 00:00 on Sunday.”
-    - cron: "0 0 * * 7"
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 jobs:
