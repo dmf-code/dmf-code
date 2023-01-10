@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://raw.githubusercontent.com/dmf-code/dmf-code/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/dmf-code)
-
-[![](https://raw.githubusercontent.com/dmf-code/dmf-code/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/dmf-code)
+[![](https://raw.githubusercontent.com/dmf-code/dmf-code/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/dmf-code)[![](https://raw.githubusercontent.com/dmf-code/dmf-code/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/dmf-code)
